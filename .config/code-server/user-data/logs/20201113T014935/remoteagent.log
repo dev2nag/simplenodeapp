@@ -1,0 +1,1 @@
+[2020-11-13 01:49:36.213] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/cloud_user/.config/code-server/user-data/Machine'
